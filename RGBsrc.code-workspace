@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../Code/Python/RGBsrc"
+		},
+		{
+			"name": "ESP32_demo",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
